@@ -1,5 +1,6 @@
 # distorted-math-captcha
-generates distorted word-based math captcha strings
+
+**Generates Distorted Word-Based Math Captcha**
 
 how to generate:
 
