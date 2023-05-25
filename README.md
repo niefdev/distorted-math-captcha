@@ -20,7 +20,7 @@ array(2) { ["ask"]=> string(25) "tewnty six miuns tihreetn" ["answer"]=> int(13)
 
 how it work? 
 
-- This script will generate random numbers between 10-100.
+- this script will generate random numbers between 10-100.
 - generate another random number but between 1 and the number generated the first time. 
 - generate a number by subtracting the first number from the second number.
 - determine a random addition or subtraction operation.
